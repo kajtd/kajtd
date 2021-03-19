@@ -3,14 +3,18 @@
 My name is Kajetan, and programming is my hobby for few years. I really enjoy learning new languages and frameworks. I am currently learning Object Oriented Programming in Java and creating net applications in Python and React.
 
 ### Skills and Experience
-* React
 * HTML
 * CSS
-* JS
+* JavaScript
+* React
+* Redux
 * Java
 * Python
+* Git
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajtd)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajtd)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 

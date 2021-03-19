@@ -1,7 +1,7 @@
 ###
-<details>
+<center>
   Hi there 👋
-</details>
+</center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajtd)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 

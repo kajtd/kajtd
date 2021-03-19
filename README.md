@@ -1,6 +1,8 @@
 ### Welcome to my profile 👋
 <hr>
-My name is Kajetan, and programming is my hobby for few years. I really enjoy learning new languages and frameworks. I am currently learning Object Oriented Programming in Java and creating net applications in Python and React.
+
+My name is Kajetan, and programming is my hobby for few years. I really enjoy learning new languages and frameworks.
+I am currently learning Object Oriented Programming in Java and creating net applications in Python and React.
 
 ### Skills and Experience
 * HTML

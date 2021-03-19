@@ -9,6 +9,11 @@ Skills and Experience
 ⋅⋅* JS
 ⋅⋅* Java
 ⋅⋅* Python
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajtd)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

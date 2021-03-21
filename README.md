@@ -2,15 +2,15 @@
 <hr>
 
 My name is Kajetan, and programming is my hobby for few years. I really enjoy learning new languages and frameworks.
-I am currently learning Object Oriented Programming in Java and creating net applications in Python and React.
+I am currently exploring creating net applications with Java and Spring Framework.
 
 ### Skills and Experience
 * HTML
 * CSS
 * JavaScript
 * React
-* Redux
 * Java
+* Spring
 * Python
 * Git
 

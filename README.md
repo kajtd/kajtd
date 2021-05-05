@@ -9,9 +9,11 @@ I am currently exploring creating net applications with Java and Spring Framewor
 * CSS
 * JavaScript
 * React
-* Java
-* Spring
-* Python
+* Java, Spring
+* Python, FastApi
+* MySQL
+* Node JS
+* MongoDB
 * Git
 
 <hr>

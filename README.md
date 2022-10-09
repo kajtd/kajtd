@@ -5,6 +5,7 @@
 
 - 🛠 Fascinated about developing web applications (mainly in <strong>Vue</strong>)
 - 🌱 I’m currently learning **Solidity and Web3**
+- 📺 For more information, please see my <a href="https://www.kajetandomagala.dev/" target="_blank" rel="noreferrer"> portfolio website </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

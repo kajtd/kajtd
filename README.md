@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajtd&label=Profile%20views&color=0e75b6&style=flat" alt="kajtd" /> </p>
 
 - 🛠 Fascinated about developing web applications (mainly in <strong>Vue</strong>)
-- 🌱 I’m currently learning **Solidity and Web3**
+- 🌱 I’m currently learning **TypeScript and Nuxt**
 - 📺 For more information, please see my <a href="https://www.kajetandomagala.dev/" target="_blank" rel="noreferrer"> portfolio website </a>
 
 <h3 align="left">Connect with me:</h3>
